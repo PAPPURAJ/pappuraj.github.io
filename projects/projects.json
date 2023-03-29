@@ -1,6 +1,6 @@
 [
   {
-    "name": "NotyStack Android",
+    "name": "Ortho EMR",
     "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
     "image": "notystackandroid",
     "category": "android",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "SPPU Engg Prep",
+    "name": "Easier Study",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
     "image": "sppuprepandroid",
     "category": "android",
@@ -20,7 +20,7 @@
     }
   },
   {
-    "name": "NewsBox Android",
+    "name": "Corona Monitor",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "newsboxandroid",
     "category": "android",
@@ -30,7 +30,7 @@
     }
   },
   {
-    "name": "Weatherly Android",
+    "name": "eClassroom",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
     "image": "weatherlyandroid",
     "category": "android",
@@ -40,7 +40,7 @@
     }
   },
   {
-    "name": "Instagram MERN",
+    "name": "Easier Study Lite",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "instagrammern",
     "category": "mern",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "name": "Flipkart MERN",
+    "name": "IoT Easier",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
     "image": "flipkartmern",
     "category": "mern",
@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "ResumeGen",
+    "name": "Space Tripper",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "resumegen",
     "category": "mern",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "name": "React-Projects",
+    "name": "Student Help Directory",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "reactprojects",
     "category": "mern",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "name": "Flipkart PHP",
+    "name": "Sign Language based Home Automation",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
     "image": "flipkartphp",
     "category": "lamp",
@@ -90,7 +90,7 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
+    "name": "WebCash Pro",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
     "image": "jspro",
     "category": "basicweb",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "name": "Web UI Clones",
+    "name": "Thief Detector",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "webuiclones",
     "category": "mern",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "name": "Crypto Tracker",
+    "name": "eCoaching",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
     "image": "cryptotracker",
     "category": "mern",
@@ -120,7 +120,7 @@
     }
   },
   {
-    "name": "Hulu Website",
+    "name": "G2G Tech",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
     "image": "hulu",
     "category": "mern",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "name": "Portfolio Website",
+    "name": "Child Tracker",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
     "category": "basicweb",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "name": "Composey Website",
+    "name": "Family Keeper",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
     "image": "composey",
     "category": "basicweb",
@@ -150,7 +150,7 @@
     }
   },
   {
-    "name": "Webview App",
+    "name": "Secure SMS Service",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
     "image": "webviewapp",
     "category": "android",
@@ -160,7 +160,7 @@
     }
   },
   {
-    "name": "PHP Banking Website",
+    "name": "Admission Management System",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
     "image": "tsfbank",
     "category": "lamp",
@@ -170,7 +170,7 @@
     }
   },
   {
-    "name": "Bootstrap Portfolio",
+    "name": "MCQ Exam System",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
     "image": "bootstrapportfolio",
     "category": "basicweb",
@@ -180,7 +180,7 @@
     }
   },
   {
-    "name": "Bootstrap Template",
+    "name": "Transmission Line Fault Detection",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "bootstraptemplate",
     "category": "basicweb",
@@ -190,7 +190,7 @@
     }
   },
   {
-    "name": "Foodicious",
+    "name": "Fire Fighting Robot",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
     "image": "foodicious",
     "category": "basicweb",
@@ -200,7 +200,7 @@
     }
   },
   {
-    "name": "Food Website",
+    "name": "Electronic Voting Machine (EVM)",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "foodwebsite",
     "category": "basicweb",
@@ -210,7 +210,7 @@
     }
   },
   {
-    "name": "WebChat Website",
+    "name": "Smart Battery Charger",
     "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
     "image": "webchat",
     "category": "mern",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "name": "Basic Banking App",
+    "name": "Universal Remote Controller",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "basicbank",
     "category": "android",
@@ -230,7 +230,7 @@
     }
   },
   {
-    "name": "JavaScript Issue Tracker",
+    "name": "Driver Sleep Detection",
     "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
     "image": "issuetrack",
     "category": "basicweb",
@@ -240,7 +240,7 @@
     }
   },
   {
-    "name": "PHP PBL Portal",
+    "name": "Toll Management",
     "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
     "image": "phppblform",
     "category": "lamp",
@@ -250,7 +250,7 @@
     }
   },
   {
-    "name": "Link List",
+    "name": "Engine Fuel Monitoring System",
     "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
     "image": "linklist",
     "category": "basicweb",
@@ -260,7 +260,7 @@
     }
   },
   {
-    "name": "Job Finder Dummy",
+    "name": "IoT Based Hall Dining Management System",
     "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
     "image": "saas",
     "category": "basicweb",
@@ -270,7 +270,7 @@
     }
   },
   {
-    "name": "Old Websites",
+    "name": "Market Monitoring System",
     "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
     "image": "oldsites",
     "category": "basicweb",
@@ -280,7 +280,7 @@
     }
   },
   {
-    "name": "Resistor Color Codes",
+    "name": "Voice Controlled Home Automation",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
     "image": "resistercolor",
     "category": "basicweb",
@@ -290,7 +290,7 @@
     }
   },
   {
-    "name": "KIA Info Website",
+    "name": "Bike Safety and Security System",
     "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
     "image": "kiaweb",
     "category": "basicweb",
@@ -300,7 +300,7 @@
     }
   },
   {
-    "name": "Burger Shop Dummy",
+    "name": "IoT based Women Safety System",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "burgerweb",
     "category": "basicweb",
@@ -310,7 +310,7 @@
     }
   },
   {
-    "name": "Indian Temples",
+    "name": "IoT based rain water preservation system",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "templeweb",
     "category": "basicweb",
@@ -320,7 +320,7 @@
     }
   },
   {
-    "name": "Indian Temples",
+    "name": "Voice Controlled Notice Board",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "templeweb",
     "category": "basicweb",
@@ -330,7 +330,17 @@
     }
   },
   {
-    "name": "Indian Temples",
+    "name": "Air Polution Monitoring System",
+    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
+    "image": "templeweb",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+    "name": "Mobile Controlled Robot",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "templeweb",
     "category": "basicweb",

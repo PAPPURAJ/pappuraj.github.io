@@ -3,15 +3,15 @@
 
     {
         "name": "IoT",
-        "icon": "https://img.icons8.com/external-flatarticons-blue-flatarticons/256/external-screen-internet-of-things-flatarticons-blue-flatarticons-4.png"
+        "icon": "https://img.icons8.com/external-flatarticons-blue-flatarticons/48/external-screen-internet-of-things-flatarticons-blue-flatarticons-4.png"
     },
     {
         "name": "Arduino",
-        "icon": "https://img.icons8.com/fluency/256/arduino.png"
+        "icon": "https://img.icons8.com/fluency/48/arduino.png"
     },
     {
         "name": "Flutter",
-        "icon": "https://img.icons8.com/fluency/256/flutter.png"
+        "icon": "https://img.icons8.com/fluency/48/flutter.png"
     },
     
     {
