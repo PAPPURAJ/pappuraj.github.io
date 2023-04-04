@@ -3,7 +3,7 @@
     "name": "Ortho EMR",
     "desc": "An medical app that used doctor to manage their patient .",
     "image": "project",
-    "category": "Flutter",
+    "category": "flutter",
     "links": {
       "view": "#",
       "code": "https://github.com/PAPPURAJ/Ortho-EMR"
@@ -13,7 +13,7 @@
     "name": "Easier Study",
     "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
     "image": "project",
-    "category": "Flutter",
+    "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.easier_study",
       "code": "https://github.com/PAPPURAJ/Easier_Study"
