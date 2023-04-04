@@ -23,7 +23,7 @@
     "name": "Corona Monitor",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "project",
-    "category": "Android(Native)",
+    "category": "android(native)",
     "links": {
       "view": "https://appbajar.com/bn/app/com.blogspot.prajbtc.coronamonitor?id=3425",
       "code": "#"
@@ -33,7 +33,7 @@
     "name": "eClassroom",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
     "image": "project",
-    "category": "android",
+    "category": "android(native",
     "links": {
       "view": "#",
       "code": "https://github.com/PAPPURAJ/eClassroom"
@@ -53,7 +53,7 @@
     "name": "Easier Study Lite",
     "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
     "image": "project",
-    "category": "mern",
+    "category": "android(native",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.easierstudy",
       "code": "#"
@@ -63,7 +63,7 @@
     "name": "IoT Easier",
     "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
     "image": "project",
-    "category": "mern",
+    "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.duet.pappuraj.cgpacalculator",
       "code": "#"
@@ -73,7 +73,7 @@
     "name": "Space Tripper",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
     "image": "project",
-    "category": "mern",
+    "category": "flutter",
     "links": {
       "view": "#",
       "code": "#"
@@ -83,7 +83,7 @@
     "name": "Student Help Directory",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
     "image": "project",
-    "category": "mern",
+    "category": "android(native)",
     "links": {
       "view": "#",
       "code": "#"
@@ -92,7 +92,7 @@
   {
     "name": "Sign Language based Home Automation",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "project",
+    "image": "python",
     "category": "lamp",
     "links": {
       "view": "#",
@@ -102,7 +102,7 @@
   {
     "name": "WebCash Pro",
     "desc": "A client based project which allow user to earn money by making SEO",
-    "image": "project",
+    "image": "android(native)",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -113,7 +113,7 @@
     "name": "Thief Detector",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
     "image": "project",
-    "category": "mern",
+    "category": "android(native)",
     "links": {
       "view": "https://appbajar.com/bn/app/com.blogspot.rajbtc.theifdetector?id=2762",
       "code": "https://github.com/jigar-sable/web-ui-clones"
@@ -123,7 +123,7 @@
     "name": "eCoaching",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
     "image": "project",
-    "category": "mern",
+    "category": "android(native)",
     "links": {
       "view": "#",
       "code": "#"
@@ -133,7 +133,7 @@
     "name": "G2G Tech",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
     "image": "project",
-    "category": "mern",
+    "category": "android(native)",
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
@@ -143,7 +143,7 @@
     "name": "Child Tracker",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "project",
-    "category": "basicweb",
+    "category": "android(native)",
     "links": {
       "view": "#",
       "code": "https://github.com/jigar-sable/Portfolio-Website"
@@ -153,7 +153,7 @@
     "name": "Family Keeper",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
     "image": "project",
-    "category": "basicweb",
+    "category": "android(native)",
     "links": {
       "view": "https://composey.netlify.app/",
       "code": "https://github.com/jigar-sable/LGMVIP-WebDev"
@@ -163,7 +163,7 @@
     "name": "Secure SMS Service",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
     "image": "project",
-    "category": "android",
+    "category": "android(native)",
     "links": {
       "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
       "code": "https://github.com/jigar-sable/Android-Webview"
@@ -173,7 +173,7 @@
     "name": "Admission Management System",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
     "image": "project",
-    "category": "lamp",
+    "category": "android(native)",
     "links": {
       "view": "https://tsfbank.rf.gd",
       "code": "https://github.com/jigar-sable/TSF-Bank"
@@ -183,7 +183,7 @@
     "name": "MCQ Exam System",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
     "image": "project",
-    "category": "basicweb",
+    "category": "android(native)",
     "links": {
       "view": "#",
       "code": "#"
@@ -193,7 +193,7 @@
     "name": "Transmission Line Fault Detection",
     "desc": "Basic website template built using HTML and Bootstrap.",
     "image": "project",
-    "category": "basicweb",
+    "category": "arduino",
     "links": {
       "view": "#",
       "code": "#"
@@ -203,7 +203,7 @@
     "name": "Fire Fighting Robot",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
     "image": "project",
-    "category": "basicweb",
+    "category": "arduino",
     "links": {
       "view": "#",
       "code": "#"
@@ -213,7 +213,7 @@
     "name": "Electronic Voting Machine (EVM)",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -223,7 +223,7 @@
     "name": "Smart Battery Charger",
     "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
     "image": "project",
-    "category": "mern",
+    "category": "arduino",
     "links": {
       "view": "https://github.com/jigar-sable/WebChat#webchat",
       "code": "https://github.com/jigar-sable/WebChat"
@@ -233,7 +233,7 @@
     "name": "Universal Remote Controller",
     "desc": "It's an android app which uses SQLite to store user accounts data. It provides feature to simply transact amount.",
     "image": "project",
-    "category": "android",
+    "category": "arduino",
     "links": {
       "view": "https://github.com/jigar-sable/Basic_Banking_App#basic-banking-app",
       "code": "https://github.com/jigar-sable/Basic_Banking_App"
@@ -243,7 +243,7 @@
     "name": "Driver Sleep Detection",
     "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
     "image": "project",
-    "category": "basicweb",
+    "category": "python",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker",
       "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/projects/issuetracker"
@@ -253,7 +253,7 @@
     "name": "Toll Management",
     "desc": "A simple portal in which students can submit their PBL projects and faculties can view by access admin panel.",
     "image": "project",
-    "category": "lamp",
+    "category": "iot",
     "links": {
       "view": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform#pbl-portal",
       "code": "https://github.com/jigar-sable/PHP-Projects/tree/main/pblform"
@@ -263,7 +263,7 @@
     "name": "Engine Fuel Monitoring System",
     "desc": "All major profile links in a single website. It's just like clone of link tree. Personalized and Responsive.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "https://jigar-sable.github.io/LinkList",
       "code": "https://github.com/jigar-sable/LinkList"
@@ -273,7 +273,7 @@
     "name": "IoT Based Hall Dining Management System",
     "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
       "code": "https://github.com/jigar-sable/JavaScript-Projects/tree/main/api-projects/saas-jobs"
@@ -283,7 +283,7 @@
     "name": "Market Monitoring System",
     "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -293,7 +293,7 @@
     "name": "Voice Controlled Home Automation",
     "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -313,7 +313,7 @@
     "name": "IoT based Women Safety System",
     "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -323,7 +323,7 @@
     "name": "IoT based rain water preservation system",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -333,7 +333,7 @@
     "name": "Voice Controlled Notice Board",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -343,7 +343,7 @@
     "name": "Air Polution Monitoring System",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "project",
-    "category": "basicweb",
+    "category": "iot",
     "links": {
       "view": "#",
       "code": "#"
@@ -353,7 +353,7 @@
     "name": "Mobile Controlled Robot",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "project",
-    "category": "basicweb",
+    "category": "arduino",
     "links": {
       "view": "#",
       "code": "#"
@@ -363,7 +363,7 @@
     "name": "CGPA Calculator",
     "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
     "image": "project",
-    "category": "basicweb",
+    "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.duet.pappuraj.cgpacalculator",
       "code": "#"
