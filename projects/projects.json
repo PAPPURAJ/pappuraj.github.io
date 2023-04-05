@@ -1,7 +1,7 @@
 [
   {
     "name": "Ortho EMR",
-    "desc": "An medical app that used doctor to manage their patient .",
+    "desc": "It is a necessary and helpful Android app for doctors to manage doctor's prescriptions and analyze x-rays along with updating their necessary documents. ",
     "image": "project",
     "category": "flutter",
     "links": {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Easier Study",
-    "desc": "All in one SPPU Engineering resources. Built using Java, XML and Firebase.",
+    "desc": "It is very important app for working in robotics field, through which robotics can buy various devices, take robotics courses, control robotics various devices and help in home automation.",
     "image": "project",
     "category": "flutter",
     "links": {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Corona Monitor",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "desc": "Through this app, you can see all the information related to Corona and by selecting a country, you will get an alert if there is more Corona infection in that country.",
     "image": "project",
     "category": "android(native)",
     "links": {
@@ -31,19 +31,19 @@
   },
   {
     "name": "eClassroom",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "desc": "It is an online class management app through which you can share all the documents of school, college or university with slide video and daily class routine will be sent to every student's phone through push notification.",
     "image": "project",
-    "category": "android(native",
+    "category": "android(native)",
     "links": {
-      "view": "#",
+      "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.eclassroom",
       "code": "https://github.com/PAPPURAJ/eClassroom"
     }
   },
     {
-    "name": "eClassroom",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "name": "eClassroom-C#",
+    "desc": "It is an online class management app through which you can share all the documents of school, college or university with slide video and daily class routine will be sent to every student's phone through push notification. Windows users can connect to the mobile through the application and upload and manage all information from the PC through the application. ",
     "image": "project",
-    "category": "Windows",
+    "category": "windows",
     "links": {
       "view": "#",
       "code": "https://github.com/PAPPURAJ/eClassroom-windows-C-"
@@ -51,9 +51,9 @@
   },
   {
     "name": "Easier Study Lite",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "desc": "Application is very important for robotics students through an application application students can do home automation using their mobile and also they can use this app to control different robots and control different devices.",
     "image": "project",
-    "category": "android(native",
+    "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.easierstudy",
       "code": "#"
