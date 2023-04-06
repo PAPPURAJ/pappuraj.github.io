@@ -2,7 +2,7 @@
   {
     "name": "Ortho EMR",
     "desc": "It is a necessary and helpful Android app for doctors to manage doctor's prescriptions and analyze x-rays along with updating their necessary documents. ",
-    "image": "project",
+    "image": "flutter",
     "category": "flutter",
     "links": {
       "view": "#",
@@ -12,7 +12,7 @@
   {
     "name": "Easier Study",
     "desc": "It is very important app for working in robotics field, through which robotics can buy various devices, take robotics courses, control robotics various devices and help in home automation.",
-    "image": "project",
+    "image": "flutter",
     "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.easier_study",
@@ -22,7 +22,7 @@
   {
     "name": "Corona Monitor",
     "desc": "Through this app, you can see all the information related to Corona and by selecting a country, you will get an alert if there is more Corona infection in that country.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://appbajar.com/bn/app/com.blogspot.prajbtc.coronamonitor?id=3425",
@@ -32,7 +32,7 @@
   {
     "name": "eClassroom",
     "desc": "It is an online class management app through which you can share all the documents of school, college or university with slide video and daily class routine will be sent to every student's phone through push notification.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.eclassroom",
@@ -52,7 +52,7 @@
   {
     "name": "Easier Study Lite",
     "desc": "Application is very important for robotics students through an application application students can do home automation using their mobile and also they can use this app to control different robots and control different devices.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.easierstudy",
@@ -62,7 +62,7 @@
   {
     "name": "IoT Easier",
     "desc": "It is an IoT based universal app through which anyone can easily create IoT related projects.",
-    "image": "project",
+    "image": "flutter",
     "category": "flutter",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.duet.pappuraj.cgpacalculator",
@@ -72,7 +72,7 @@
   {
     "name": "Student Help Directory",
     "desc": "This was my first project done in 2016 which was used to provide basic features to the student.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "#",
@@ -92,7 +92,7 @@
   {
     "name": "WebCash Pro",
     "desc": "A client based project which allow user to earn money by making SEO",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.webcash.user.webcashpro",
@@ -102,7 +102,7 @@
   {
     "name": "Thief Detector",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://appbajar.com/bn/app/com.blogspot.rajbtc.theifdetector?id=2762",
@@ -112,7 +112,7 @@
   {
     "name": "eCoaching",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "#",
@@ -122,7 +122,7 @@
   {
     "name": "G2G Tech",
     "desc": "It is an app used for civil engineers through which they can maintain their various projects on site and communicate with each other while keeping track of work progress.",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "#",
@@ -133,7 +133,7 @@
   {
     "name": "Family Keeper",
     "desc": "Using this application, we can see where our family members are and in case of danger, we also can inform others through mobile shaking",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.rajbtc.familyprotector",
@@ -143,7 +143,7 @@
   {
     "name": "Secure SMS Service",
     "desc": "While sending an important SMS to someone, the message can be sent through the app using encryption techniques",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "#",
@@ -154,7 +154,7 @@
   {
     "name": "MCQ Exam System",
     "desc": "Through this app mcq questions can be created and can be take the exam",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "#",
@@ -164,7 +164,7 @@
   {
     "name": "Transmission Line Fault Detection",
     "desc": "It will detect any fault in the high voltage transmission line and alert you via mobile app.",
-    "image": "project",
+    "image": "arduino",
     "category": "arduino",
     "links": {
       "view": "#",
@@ -174,7 +174,7 @@
   {
     "name": "Universal Fire Fighting Robot",
     "desc": "In case of a fire accident, this robot will work automatically and manually and help to extinguish the fire.",
-    "image": "project",
+    "image": "arduino",
     "category": "arduino",
     "links": {
       "view": "#",
@@ -184,7 +184,7 @@
   {
     "name": "Electronic Voting Machine (EVM)",
     "desc": "The votes cast through this machine can be counted and the results provided",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -194,7 +194,7 @@
   {
     "name": "Smart Battery Charger",
     "desc": "This charger will provide reverse polarity detection and protection while charging different batteries, as well as reverse battery protection and display.",
-    "image": "project",
+    "image": "arduino",
     "category": "arduino",
     "links": {
       "view": "#",
@@ -204,7 +204,7 @@
   {
     "name": "Universal Remote Controller",
     "desc": "This remote can copy any remote and later act as an alternate of that remote",
-    "image": "project",
+    "image": "arduino",
     "category": "arduino",
     "links": {
       "view": "#",
@@ -222,9 +222,9 @@
     }
   },
   {
-    "name": "Padma Bridge Toll Management",
+    "name": "Padma Bridge  Toll Management",
     "desc": "Through this device, the vehicle can pay its toll while traveling on the Padma Bridge and view all the information through the app.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -234,7 +234,7 @@
   {
     "name": "Engine Fuel Monitoring System",
     "desc": "It will send information to the owner of the vehicle knowing whether the vehicle is leaking or oil is stolen or the vehicle has an accident",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -244,7 +244,7 @@
   {
     "name": "IoT Based Hall Dining Management System",
     "desc": "Through this device, students can collect their food by scanning the RFID card and can do all the transactions using the app",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -254,7 +254,7 @@
   {
     "name": "Market Monitoring System",
     "desc": "How many people entered the market, how many exited, and control and take action if there is any fire in the market.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -264,7 +264,7 @@
   {
     "name": "Voice Controlled Home Automation",
     "desc": "You can control your all the home appliances using the mobile app and IoT device.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -274,7 +274,7 @@
   {
     "name": "Bike Safety and Security System",
     "desc": "Bike accident detection and can be track using our device and mobile app.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -284,7 +284,7 @@
   {
     "name": "IoT based Women Safety System",
     "desc": "It can be used to monitor our familymember on google map, they also get help using this device wirelessly.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -294,7 +294,7 @@
   {
     "name": "IoT based rain water preservation system",
     "desc": "Rain water can be filter and preserved and also can be monitored by this project.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -304,7 +304,7 @@
   {
     "name": "Voice Controlled Notice Board",
     "desc": "Notice can be send to classroom display by IoT using mobile app.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -314,7 +314,7 @@
   {
     "name": "Air Polution Monitoring System",
     "desc": "This project can detect environment data and can take action.",
-    "image": "project",
+    "image": "iot",
     "category": "iot",
     "links": {
       "view": "#",
@@ -324,7 +324,7 @@
     {
     "name": "Mobile Controlled Robot",
     "desc": "App that can used to control a specific robot using WiFi local communication",
-    "image": "project",
+    "image": "arduino",
     "category": "arduino",
     "links": {
       "view": "#",
@@ -334,7 +334,7 @@
   {
     "name": "Space Tripper",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "project",
+    "image": "flutter",
     "category": "flutter",
     "links": {
       "view": "#",
@@ -344,7 +344,7 @@
   {
     "name": "CGPA Calculator",
     "desc": "A basic calculator to calculate university CGPA",
-    "image": "project",
+    "image": "native",
     "category": "android(native)",
     "links": {
       "view": "https://play.google.com/store/apps/details?id=com.blogspot.duet.pappuraj.cgpacalculator",
